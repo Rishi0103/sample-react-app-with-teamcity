@@ -5,6 +5,10 @@ A web app using React Javascript library to demonstrate the concept of pipeline 
 1. Install [Node JS](https://nodejs.org/en/download/)
 2. An IDE like Atom or Webstorm
 
+## TeamCity
+As an example for configuration as code using TeamCity as the build system, see settings.kts in .teamcity directory. 
+The significance is that the configuration of a build system can be fully coded and version controlled.
+
 ## Install and Start
 
 In the commandline,
