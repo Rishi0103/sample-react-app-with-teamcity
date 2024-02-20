@@ -1,6 +1,6 @@
-import jetbrains.buildServer.configs.kotlin.v2023.11.*
-import jetbrains.buildServer.configs.kotlin.v2023.11.buildSteps.script
-import jetbrains.buildServer.configs.kotlin.v2023.11.triggers.vcs
+import jetbrains.buildServer.configs.kotlin.v2023_11.*
+import jetbrains.buildServer.configs.kotlin.v2023_11.buildSteps.script
+import jetbrains.buildServer.configs.kotlin.v2023_11.triggers.vcs
 
 version = "2020.2"
 
